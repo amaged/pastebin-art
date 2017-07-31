@@ -1,3 +1,5 @@
+/* Credit goes to Henri B for the mentorship and Coding */
+
 package main
 
 import "fmt"
